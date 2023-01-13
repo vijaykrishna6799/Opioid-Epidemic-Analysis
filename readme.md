@@ -1,4 +1,4 @@
-# FALL-2022_PROJECT-TEAM_5
+# PROJECT (Data Science)
 ***
 ## U.S. Opioid Epidemic Analysis
 
@@ -20,9 +20,7 @@ Main aim is to collect the data from different datasets such as Drug Overdose Da
 
 |-- src                             # the code and notebooks! 📚📚
 
-|-- utilities                       # scripts used for the data 📃
 
-|-- requirements                    # Packages required/used in this project
 
 
 ## Software used (open source):
@@ -34,7 +32,7 @@ Main aim is to collect the data from different datasets such as Drug Overdose Da
 + [Jupyter Notebook](https://jupyter.org/)
 + [Seaborn](https://seaborn.pydata.org/)
 + [Scipy](https://scipy.org/)
-
++ [jupyter_dash](https://dash.plotly.com/workspaces/using-dash-in-jupyter-and-workspaces)
 
 
 ## Stage I - Data Understanding and Linking.
