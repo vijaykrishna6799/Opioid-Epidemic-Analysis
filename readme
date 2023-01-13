@@ -1,1 +1,21 @@
-opioid
+Opioid- Epedemic-Analysis In United States over the Years 2000-2020
+I have done a complete analysis on the Opioid Data (United States)
+Extraction of Data, Data Modelling, Various Distribution Analysis on the Data, Performing Various Hypothesis Testing
+Implementation of Dashboard (Jupyter Dash)
+
+
+Datasets Used:
+- Drug Overdose Datasets:
+https://wonder.cdc.gov/wonder/help/ucd.html#Drug/Alcohol%20Induced%20Causes
+
+- County Health Rankings:
+https://www.countyhealthrankings.org/
+
+- County Opioid Dispensing Rates:
+https://www.cdc.gov/drugoverdose/maps/rxcounty2019.html
+
+
+Softwares Used:
+python - https://www.python.org/download/releases/3.0/
+pandas - https://pandas.pydata.org/
+plotly - https://plotly.com/
