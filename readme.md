@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ```
 
 
-
+- All the project Questionaire is in the Stages Folder (ipython notebooks)
 
 
 
