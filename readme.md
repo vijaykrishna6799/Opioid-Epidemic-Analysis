@@ -66,16 +66,21 @@ In this stage we develop the data for modelling and comparitive analysis. Here w
 ## Stage III - Distributions and Hypothesis Testing.
 ***
 #### Task1: Distribution Analysis:
--
--
+- In this we perform Opioid Mortality data analysis by using the Distribution Analysis
+- Distribution Analysis is done by Distribution Estimators- Method of Moments (MoM), Maximum Likelihood Estimator (MLE) and Kernel Density Estimation (KDE).
 #### Task2: Hypothesis Testing and Regression:
--
--
+- We perform Hypothesis test on some important variables of the merded super dataframe and analyse the effect of various parameters on the number of deaths related to drug overdose. 
+- Performing Linear, Multi-linear and non-linear regression to estimate the effect of number of deaths over time based on Opioid prescription rates.
 
 ## Stage IV - Dashboard.
 ***
 Developing a simple interactive dashboard. Utilizing [plotly](https://plotly.com/) along with the [Dash](https://plotly.com/dash/) as a framework.
 
+- From the super dataframe we build a comparision between each variable to the drug overdose death rate and also evaluate the behaviour by plotting linear/non-linear trend line.
+
+- the interactive dashboard contains a Data Table and a map as well, Along with selectors to display the linear and log values of the variables.
+
+- Created a map (chloropleth)to display the selected variable.
 ### Project Setup:
 ***
 1. Clone the repository - Clone the repository by pasting this [link](https://team5) in your favorite terminal.
@@ -86,12 +91,8 @@ Developing a simple interactive dashboard. Utilizing [plotly](https://plotly.com
 pip install -r requirements.txt
 ```
 
-### Working Team :
-***
-+ Sai Ram Ajay Krishna Gabbula
 
-+ Venkata Vijay Krishna Gabbula
 
-+ Snehith Reddy Kallem
 
-+ Manichandana kuluri
+
+
