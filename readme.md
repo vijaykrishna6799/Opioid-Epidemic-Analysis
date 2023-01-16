@@ -3,7 +3,7 @@
 ## U.S. Opioid Epidemic Analysis
 
 
-This is a repository where the analysis for the Opioid Epidemic in United States is performed. This work is a group project done to fulfill the requirements for the DATA SCIENCE course (CSC-605) for the Fall semester in UNCG.
+This is a repository where the analysis for the Opioid Epidemic in United States is performed. This work is to fulfill the requirements for the DATA SCIENCE course (CSC-605) for the Fall semester (Fall 2022) at UNCG.
 Main aim is to collect the data from different datasets such as Drug Overdose Dataset, County Health Rankings, County Opioid Dispensing Rates and understand and visualize them with the help of Data Science techniques to estimate the impact of Opioid Epidemic across different socio-economic, demographic, geographic variables that are present for the counties in US and to give future predictions.
 
 ![opioid](https://www.hhs.gov/opioids/sites/default/files/inline-images/opioids-infographic.png)
@@ -80,16 +80,13 @@ Developing a simple interactive dashboard. Utilizing [plotly](https://plotly.com
 
 - the interactive dashboard contains a Data Table and a map as well, Along with selectors to display the linear and log values of the variables.
 
-- Created a map (chloropleth)to display the selected variable.
+- Created a map (chloropleth) to display the selected variable.
 ### Project Setup:
 ***
-1. Clone the repository - Clone the repository by pasting this [link](https://team5) in your favorite terminal.
+1. Clone the repository - Clone the repository by pasting this [link](https://github.com/vijaykrishna6799/Opioid-Epidemic-Analysis) in your favorite terminal.
 2. Make sure you have the above used Software in your local machine.
 3. Some additional python packages required to run the code properly can be installed by running the following code.
 
-```
-pip install -r requirements.txt
-```
 
 
 - All the project Questionaire is in the Stages Folder (ipython notebooks)
